@@ -16,3 +16,10 @@ echo hello world
 #blue         34
 #meganta      35
 #cyan         36
+
+echo -e "\e[31Hello world in Red color\e[0m"
+echo -e "\e[32Hello world in green color\e[0m"
+echo -e "\e[33Hello world in yellow color\e[0m"
+echo -e "\e[34Hello world in Blue color\e[0m"
+echo -e "\e[35Hello world in Magenta color\e[0m"
+echo -e "\e[36Hello world in cyan color\e[0m"
