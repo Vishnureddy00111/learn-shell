@@ -32,6 +32,8 @@
 # Operators : == , !=, -z
 
 # Numbers
-# -eq , -ne , -ge , -le, -le
-# Files
+#[ 1 -eq 2]
+#eq , -ne , -gt , -ge , -le , -le
 
+# Files
+# Operators :
