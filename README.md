@@ -34,3 +34,10 @@ if we want to exit the scripts with our own status then we can use 'exit' comman
 exit 0 # Success
 exit 1 # Failure with status 1
 ----
+
+# Four pillars of any scripting 
+
+1. Variables
+2. Functions
+3. Conditions
+4. Loops

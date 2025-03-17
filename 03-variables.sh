@@ -17,3 +17,15 @@ echo AWS Trainer - $trainer
 #Data - free to give anything , no data type ,Everything is string.
 # in case if we have special characters in data ,the you use double quotes
 # trainer= "john jacob"
+
+
+# src=x.txt
+# dest=y.txt
+# cp $src $dest
+
+# Command substitution
+# variable=$(command)
+# Above command output will go to variable
+
+date=$(date)
+
