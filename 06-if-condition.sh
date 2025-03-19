@@ -37,3 +37,29 @@
 
 # Files
 # Operators :
+
+# We have one more condition - case
+# case $i in
+#abc)
+# commands
+#  ;;
+#xyz)
+#  ;;
+#  commands
+#  ;;
+#esac
+
+#However we don't prefer to do much with case command,becase it can do only starting comparision like two strings are equal or not equal.
+
+fruit=orange
+
+case $fruit in
+  orange)
+  echo available quantity - 100
+  ;;
+banana)
+  echo Availability Quantity - 200
+  ;;
+esac
+
+
