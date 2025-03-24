@@ -41,3 +41,10 @@ exit 1 # Failure with status 1
 2. Functions
 3. Conditions
 4. Loops
+
+# Log redirections 
+# > - output redirect
+# 1> - output 2> error
+# &> - output & error
+# >> - append 
+# we can use special file called as /dev/null in case if don't want any output to store on file and neither on screen the we redirect this file.

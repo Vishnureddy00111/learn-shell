@@ -1,5 +1,5 @@
 #print some message on the screen  we use echo or printf command.
-#echo is simple approch &widely used ,we wikly learn it.
+#echo is simple approach &widely used ,we widely learn it.
 
 #echo input
 echo hello world
